@@ -12,9 +12,9 @@
 		"mailmerge"
 	],
 	"dependencies": {
-		"underscore": "1.4.4",
-		"soap": "0.2.7",
-		"async": "0.2.7"
+		"underscore": "1.8.2",
+		"soap": "0.8.0",
+		"async": "0.9.0"
 	},
 	"repository": {
 		"type": "git",
